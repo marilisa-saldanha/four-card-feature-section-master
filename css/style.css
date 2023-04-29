@@ -152,7 +152,7 @@ footer a {
     width: 67rem;
     grid-template-columns: auto auto auto auto auto;
     grid-template-rows: auto auto auto auto;
-    gap: 1r.5em;
+    gap: 1.5rem;
     justify-self: center;
     align-self: center;
   }
